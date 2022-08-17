@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Wire-News/static/css/main.c5c8b323.css",
-    "main.js": "/Wire-News/static/js/main.19619ae6.js",
+    "main.js": "/Wire-News/static/js/main.d568fdef.js",
     "static/js/787.4c026eef.chunk.js": "/Wire-News/static/js/787.4c026eef.chunk.js",
     "static/media/logo.png": "/Wire-News/static/media/logo.9a67f00369333b818b84.png",
     "index.html": "/Wire-News/index.html",
     "main.c5c8b323.css.map": "/Wire-News/static/css/main.c5c8b323.css.map",
-    "main.19619ae6.js.map": "/Wire-News/static/js/main.19619ae6.js.map",
+    "main.d568fdef.js.map": "/Wire-News/static/js/main.d568fdef.js.map",
     "787.4c026eef.chunk.js.map": "/Wire-News/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5c8b323.css",
-    "static/js/main.19619ae6.js"
+    "static/js/main.d568fdef.js"
   ]
 }
